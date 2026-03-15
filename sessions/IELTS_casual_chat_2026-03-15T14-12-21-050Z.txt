@@ -1,0 +1,51 @@
+[USER]:  ,Jam
+
+[ASSISTANT]: Hey there! What's up? How are you doing today?
+
+[USER]:  ,Jam
+
+[ASSISTANT]: Hey there! What's up? How are you doing today?
+
+[USER]:  just the chatting I can make a same introduction of myself.
+
+[ASSISTANT]: Sure, go for it! I'd love to hear more about you.
+
+[USER]:  just the chatting I can make a same introduction of myself.
+
+[ASSISTANT]: Sure, go for it! I'd love to hear more about you.
+
+[USER]:  My name is could you understand that?
+
+[ASSISTANT]: Yes, I understand! So your name is , right? It's nice to meet you! What do you like to do in your free time?
+
+[USER]:  My name is could you understand that?
+
+[ASSISTANT]: Yes, I understand! So your name is , right? It's nice to meet you! What do you like to do in your free time?
+
+[USER]:  ,,
+
+[ASSISTANT]: Ah, I see! Thank you for clarifying that. That's a beautiful name. So, what
+
+[USER]:  ,,
+
+[USER]:  .
+
+[ASSISTANT]: you for explaining that! That's a beautiful name. By the way, your English is getting really good! You're using more descriptive words. Keep it up!
+
+[USER]:  .
+
+[ASSISTANT]: you for explaining that! That's a beautiful name. By the way, your English is getting really good! You're using more descriptive words. Keep it up!
+
+[USER]:  Yeah, I'm uh I'm a master student and I'm in my third year of my graduate studies.
+
+[USER]:  my my my research folks um science.
+
+[USER]:  
+
+[USER]:  and sales.
+
+[ASSISTANT]: Wow, a master's student! That's very impressive. So you're researching mammals, like dolphins and seals? That sounds really interesting! What specifically do you focus on?
+
+[USER]:  and sales.
+
+[ASSISTANT]: Wow, a master's student! That's very impressive. So you're researching mammals, like dolphins and seals? That sounds really interesting! What specifically do you focus on?

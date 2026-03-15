@@ -1,0 +1,33 @@
+[USER]:  Hi, Jean-Man.
+
+[ASSISTANT]: Hey there! I'm Gemini. What's up? Ready to practice some English?
+
+[USER]:  Hi, Jean-Man.
+
+[ASSISTANT]: Hey there! I'm Gemini. What's up? Ready to practice some English?
+
+[USER]:  Yes, of course.
+
+[ASSISTANT]: Awesome! So, what did you get up to today? Anything interesting?
+
+[USER]:  Yes, of course.
+
+[ASSISTANT]: Awesome! So, what did you get up to today? Anything interesting?
+
+[USER]:  Let's talk about my hobbies.
+
+[USER]:  OK 
+
+[ASSISTANT]: Sounds good! What are you into? What do you like to do in your free time?
+
+[USER]:  OK 
+
+[ASSISTANT]: Sounds good! What are you into? What do you like to do in your free time?
+
+[USER]:  actually I I really playing guitar just coding sometimes I'm taking photography. Yeah it's all my hobbies.
+
+[ASSISTANT]: Wow, that's quite a mix! So, you're a musician, a coder, and a photographer! How do you find the time to do all of that?
+
+[USER]:  actually I I really playing guitar just coding sometimes I'm taking photography. Yeah it's all my hobbies.
+
+[ASSISTANT]: Wow, that's quite a mix! So, you're a musician, a coder, and a photographer! How do you find the time to do all of that?

@@ -1,0 +1,7 @@
+{
+  "name": "IELTS Speaking Tutor 2025",
+  "description": "Real-time IELTS Speaking practice with Gemini 2.5 Live API, featuring the Sep-Dec 2025 Question Bank.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

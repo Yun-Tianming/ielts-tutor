@@ -1,0 +1,31 @@
+[USER]:  200
+
+[ASSISTANT]: Hey there! It's good to see you. We were just talking about your interesting hobbies. How do you manage to balance all threemusic, coding, and photography?
+
+[USER]:  200
+
+[ASSISTANT]: Hey there! It's good to see you. We were just talking about your interesting hobbies. How do you manage to balance all threemusic, coding, and photography?
+
+[USER]:  Yes, you are right.
+
+[ASSISTANT]: It sounds
+
+[USER]:  Yes, you are right.
+
+[USER]:  actually I I love to taking landscape photography.
+
+[USER]:  
+
+[ASSISTANT]: Ah, landscape photography, that's beautiful. So, are you also interested in portrait or street photography, like you mentioned in Chinese?
+
+[USER]:  
+
+[ASSISTANT]: Ah, landscape photography, that's beautiful. So, are you also interested in portrait or street photography, like you mentioned in Chinese?
+
+[USER]:  I don't I want to do straight photography but actually I'm I'm a bit. So I'm so too shy to take my to capture people's expressions office on the street you know I'm not sure.
+
+[ASSISTANT]: I understand, that's completely normal. Street photography can be a bit daunting! Maybe you could start by taking photos of friends or family first? That can be a great way to practice capturing expressions without the pressure of strangers.
+
+[USER]:  I don't I want to do straight photography but actually I'm I'm a bit. So I'm so too shy to take my to capture people's expressions office on the street you know I'm not sure.
+
+[ASSISTANT]: I understand, that's completely normal. Street photography can be a bit daunting! Maybe you could start by taking photos of friends or family first? That can be a great way to practice capturing expressions without the pressure of strangers.

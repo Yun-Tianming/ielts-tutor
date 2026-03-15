@@ -1,0 +1,27 @@
+[USER]:  <noise> 
+
+[ASSISTANT]: Hey there! What's up today? Ready to chat a bit?
+
+[USER]:  <noise> 
+
+[ASSISTANT]: Hey there! What's up today? Ready to chat a bit?
+
+[USER]:  Of course
+
+[ASSISTANT]: Cool! So, how's your weekend been? Anything exciting happening?
+
+[USER]:  Of course
+
+[ASSISTANT]: Cool! So, how's your weekend been? Anything exciting happening?
+
+[USER]:  Yeah, I'm a I'm so excited because I come out the cloud and I'm successful.
+
+[ASSISTANT]: Wow, that's great news! Congratulations! What was the CLA about?
+
+[USER]:  Yeah, I'm a I'm so excited because I come out the cloud and I'm successful.
+
+[ASSISTANT]: Wow, that's great news! Congratulations! What was the CLA about?
+
+[USER]:  sorry you know it is just like
+
+[ASSISTANT]: Ah, I see! Cloud Command Line Interface. That's a big achievement! You must be really proud. By the way, your vocabulary is great! Keep it up.
