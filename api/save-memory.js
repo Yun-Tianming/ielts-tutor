@@ -1,4 +1,4 @@
-import { put, head } from '@vercel/blob';
+import { put, list } from '@vercel/blob';
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
@@ -9,12 +9,11 @@ export default async function handler(req, res) {
 
   try {
     let oldSummary = '';
-    const blobUrl = process.env.MEMORY_BLOB_URL;
 
-    if (blobUrl) {
+    const { blobs } = await list({ prefix: 'casual_chat_memory.json' });
+    if (blobs.length > 0) {
       try {
-        const { downloadUrl } = await head(blobUrl);
-        const response = await fetch(downloadUrl);
+        const response = await fetch(blobs[0].url);
         const oldMemory = await response.json();
         oldSummary = oldMemory.summary || '';
       } catch {}
@@ -38,12 +37,11 @@ export default async function handler(req, res) {
 
     const blob = await put('casual_chat_memory.json', JSON.stringify(memory, null, 2), {
       access: 'public',
-      contentType: 'application/json'
+      contentType: 'application/json',
+      addRandomSuffix: false
     });
 
-    process.env.MEMORY_BLOB_URL = blob.url;
-
-    res.json({ success: true });
+    res.json({ success: true, blobUrl: blob.url });
   } catch (error) {
     res.status(500).json({ success: false, error: error.message });
   }
